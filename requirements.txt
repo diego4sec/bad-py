@@ -1,0 +1,4 @@
+# Intentionally vulnerable versions for security scanning demos
+Flask==0.5          # Very old, known vulnerabilities
+Django==1.2         # Outdated, security issues
+requests==2.3.0     # Known SSL and other vulnerabilities
