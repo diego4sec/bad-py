@@ -2,4 +2,4 @@
 Flask==0.5          # Very old, known vulnerabilities
 Django==1.2         # Outdated, security issues
 requests==2.3.0     # Known SSL and other vulnerabilities
-python-json-logger==3.2.0
+h11==0.14.0
