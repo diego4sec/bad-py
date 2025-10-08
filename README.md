@@ -1,4 +1,4 @@
-requirements to add 
+requirements to add \n
 Intentionally vulnerable / outdated packages for security testing
 Old Flask release (multiple CVEs)
 Flask==0.5
