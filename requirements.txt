@@ -1,4 +1,5 @@
 # Intentionally vulnerable versions for security scanning demos
 Flask==0.5          # Very old, known vulnerabilities
 Django==1.2         # Outdated, security issues
-requests==2.3.0     # Known SSL and other vulnerabilities
+requests==2.3.0     # Known SSL and other vulnerabili
+h11==0.14.0        # h11 with HTTP parsing flaws (critical issue reported in 2025)
